@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damilola-web.
+- 👋 Hi, I’m Damilola
 - 👀 I’m interested in becoming a front-end web developer.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 
